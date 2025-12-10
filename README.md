@@ -27,7 +27,7 @@ Quick Setup
 * Create a .env file (same folder as app.py):
 * Install dependencies (run from project root):  pip install -r requirements.txt
 * SECRET_KEY=put_a_new_secret_here
-* GOOGLE_API_KEY=<your Gemini API key>
+* GOOGLE_API_KEY= <your Gemini API key>
 * DATABASE_URI=sqlite:///talentflow.db
 
 ## Notes:
