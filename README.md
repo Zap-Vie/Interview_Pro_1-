@@ -24,10 +24,10 @@ Main Features
 
 Quick Setup
 * Requirements: Python 3.10+
-* Create a .env file (same folder as app.py):
 * Install dependencies (run from project root):  pip install -r requirements.txt
+* Create a .env file (same folder as app.py):
 * SECRET_KEY=put_a_new_secret_here
-* GOOGLE_API_KEY= <your Gemini API key>
+* GOOGLE_API_KEY= <Get it here: https://aistudio.google.com/app/apikey>
 * DATABASE_URI=sqlite:///talentflow.db
 
 ## Notes:
